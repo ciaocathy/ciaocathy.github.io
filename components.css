@@ -4,7 +4,22 @@ body, html {
   height: auto;
   width: auto;
 }
+/* Stylling the container which includes  */
+.container{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
 
+}
+/* Stylling the headings are here */
+.homepage-heading{
+  font-family: fantasy;
+
+}
+.home-list{
+  
+
+}
 .topnav {
   overflow: hidden;
   background-color: #333;
